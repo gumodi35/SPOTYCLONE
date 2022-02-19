@@ -47,8 +47,9 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * Proximamente mas ejercicios 🤓.
 * etc.
 
-[Duck Duck Go](https://duckduckgo.com).
-# Demo [spotyclone](https://gumodi35.github.io/SPOTYCLONE/#)
+
+ Demo [spotyclone]:
+https://gumodi35.github.io/SPOTYCLONE/#
 
 ---
 ⌨️ con ❤️ por [wallas](https://github.com/gumodi35) 😊
