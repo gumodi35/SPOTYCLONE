@@ -6,6 +6,7 @@ Es es un proyecto para poner en practica los conocimientos en HTML, CSS & JS la 
 
 Para obtener una copia del proyecto has click en el apartado de Code y ejecuta:
       https://github.com/gumodi35/SPOTYCLONE.git
+      https://gumodi35.github.io/SPOTYCLONE/
 🧑‍💻 git clone en tu carpeta local.
 
 Para ejecutar ve a tu local host en el archivo index.html
